@@ -1,0 +1,7 @@
+{
+    "name": "mf_videos",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node script.js"
+    }
+}
